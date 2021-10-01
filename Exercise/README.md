@@ -47,3 +47,5 @@ Installing and using keyspace, column families and sets with Cassandra.
 12. Get all users that live in UT and were born after 1970
     - ```` SELECT * FROM users WHERE state = 'UT' AND birth_date > 1970 ALLOW FILTERING; ````
    
+
+![image](https://user-images.githubusercontent.com/64374947/135691701-18558394-4a4c-48d1-ae96-05df5356026e.png)
