@@ -119,4 +119,6 @@ cqlsh:test> SELECT * FROM users WHERE state = 'UT' AND birth_date > 1970 ALLOW F
 (1 rows)
  ````
  
+![1](https://user-images.githubusercontent.com/64374947/135725796-b9b92081-e54b-4c1d-a0c2-dd339702e04f.JPG)
+![2](https://user-images.githubusercontent.com/64374947/135725799-54835de4-299c-4aeb-96b2-a9b28b0b3c75.JPG)
 
